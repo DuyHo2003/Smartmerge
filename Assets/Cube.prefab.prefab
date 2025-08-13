@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7638649907269807862}
   - component: {fileID: 1694424636237490248}
   - component: {fileID: -1525217302472064974}
+  - component: {fileID: -4226764856750480290}
   m_Layer: 0
   m_Name: Cube.prefab
   m_TagString: Untagged
@@ -154,3 +155,15 @@ BillboardRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Billboard: {fileID: 0}
+--- !u!122 &-4226764856750480290
+Halo:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 974636701986654156}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4286611584
+  m_Size: 5
